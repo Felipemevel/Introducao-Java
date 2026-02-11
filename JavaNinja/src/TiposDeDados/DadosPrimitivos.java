@@ -7,10 +7,9 @@ public class DadosPrimitivos {
         char inicial = 'N';
         boolean vivo = true;
         Long saldoBancario = 999999999L;
-        System.out.print(altura);
-        System.out.println(idade);
-        System.out.println(inicial);
-        System.out.println(vivo);
-        System.out.println(saldoBancario);
+
+        System.out.println("Altura: " + altura);
+        System.out.println("Idade: " + idade);
+        System.out.println("saldoBancario: " + saldoBancario);
     }
 }
