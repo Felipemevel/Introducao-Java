@@ -1,6 +1,4 @@
-package Condicoes;
-
-import org.w3c.dom.ls.LSOutput;
+package NivelBasico.Condicoes;
 
 public class ternarios {
     public static void main(String[] args) {
