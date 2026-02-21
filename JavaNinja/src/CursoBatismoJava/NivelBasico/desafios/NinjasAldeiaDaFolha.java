@@ -1,4 +1,4 @@
-package NivelBasico.desafios;
+package CursoBatismoJava.NivelBasico.desafios;
 
 public class NinjasAldeiaDaFolha {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package NivelIntermediario.ClassesEObjetos;
+package CursoBatismoJava.NivelIntermediario.ClassesEObjetos;
 
 public class Ninja {
     String nome;

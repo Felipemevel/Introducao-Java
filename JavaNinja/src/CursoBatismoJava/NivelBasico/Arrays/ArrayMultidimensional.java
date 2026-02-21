@@ -1,4 +1,4 @@
-package NivelBasico.Arrays;
+package CursoBatismoJava.NivelBasico.Arrays;
 
 public class ArrayMultidimensional {
     public static void main(String[] args) {

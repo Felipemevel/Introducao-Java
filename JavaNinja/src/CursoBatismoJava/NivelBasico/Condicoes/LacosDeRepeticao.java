@@ -1,4 +1,4 @@
-package NivelBasico.Condicoes;
+package CursoBatismoJava.NivelBasico.Condicoes;
 
 public class LacosDeRepeticao {
     public static void main(String[] args) {

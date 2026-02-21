@@ -1,4 +1,4 @@
-package NivelIntermediario.Heranca;
+package CursoBatismoJava.NivelIntermediario.Heranca;
 
 public class Ninja {
     String nome;

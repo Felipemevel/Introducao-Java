@@ -1,4 +1,4 @@
-package NivelBasico.Condicoes;
+package CursoBatismoJava.NivelBasico.Condicoes;
 
 import java.util.Scanner;
 
