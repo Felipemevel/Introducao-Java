@@ -115,6 +115,7 @@ public class Main {
 
                             break;
                     }
+
                     break;
                 case 2:
                     System.out.println("<=============================================================================");
@@ -129,6 +130,7 @@ public class Main {
                     break;
                 default:
                     System.out.println("Opção inválida!");
+                    break;
             }
         }
 
