@@ -1,4 +1,4 @@
-package CursoBatismoJava.NivelAvancado.StreamsP1;
+package CursoBatismoJava.NivelAvancado.StreamsP2;
 
 public class Ninja {
 
